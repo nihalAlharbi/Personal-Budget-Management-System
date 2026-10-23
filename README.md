@@ -8,7 +8,7 @@ A Windows desktop application built with **C# and Windows Forms**, featuring tra
 
 ![C#](https://img.shields.io/badge/C%23-Windows%20Forms-512BD4?style=flat-square) ![.NET Framework](https://img.shields.io/badge/.NET%20Framework-4.7.2-5C2D91?style=flat-square) ![Storage](https://img.shields.io/badge/Storage-CSV-64748B?style=flat-square)
 
-**[Explore the interface](#-actual-application-screenshots) · [Features](#-features) · [Run locally](#-run-the-application)**
+**[Explore the interface](#-real-application-screenshots) · [Features](#-features) · [Run locally](#-run-the-application)**
 
 </div>
 
@@ -89,8 +89,8 @@ This repository is a learning/portfolio project. The source has been reviewed, b
 - Budget warnings currently respond to **slider values**, not a comparison between real expenses and budget limits.
 - The transaction writer stores a formatted date, while the reader interprets it as a **Hijri date**. Date parsing should be made consistent before relying on historical searches.
 - CSV parsing is basic and does not handle quoted fields or category names containing commas.
-- Existing `bin/` and `obj/` artifacts were committed in earlier history. The `.gitignore` prevents new untracked artifacts but does not remove already tracked files.
-- The repository is currently a **fork**. Fork status and existing Git history are not changed by this README.
+- Build outputs (`bin/`, `obj/`) and local financial CSV records were deliberately excluded from this independent repository.
+- This is an independently created repository containing a copy of the project files. It does not preserve the earlier repository's Git commit history. Original third-party contribution and license obligations, if any, still apply.
 
 ## 👩‍💻 Developer
 
