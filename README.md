@@ -96,7 +96,7 @@ This repository is a learning/portfolio project. The source has been reviewed, b
 
 **Nihal Hameed Alharbi**  
 Computer Science  
-[GitHub profile](https://github.com/niha-hameed)
+[GitHub profile](https://github.com/nihalAlharbi)
 
 ---
 
